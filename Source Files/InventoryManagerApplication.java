@@ -374,7 +374,6 @@ public class InventoryManagerApplication extends JFrame {
 
                 }
 
-    
                 int num = (int) inventoryEdit.getNumber();
 
                 // Updating Button Text and Item Values
